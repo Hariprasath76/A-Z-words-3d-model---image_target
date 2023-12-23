@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="KANGAROO" size="5.000000 5.000000" />
+    <ImageTarget name="YACHT" size="5.000000 1.689795" />
+    <ImageTarget name="ZEPPELIN" size="5.000000 5.000000" />
+    <ImageTarget name="X_MAS-TREE" size="5.000000 5.000000" />
+    <ImageTarget name="WHALE" size="5.000000 3.537500" />
+    <ImageTarget name="VAN" size="5.000000 4.000000" />
+    <ImageTarget name="UFO" size="5.000000 6.877579" />
+    <ImageTarget name="TIGER" size="5.000000 7.501875" />
+    <ImageTarget name="SNOWMAN" size="5.000000 5.000000" />
+    <ImageTarget name="RABBIT" size="5.000000 5.000000" />
+    <ImageTarget name="QUILL" size="5.000000 2.857500" />
+    <ImageTarget name="PANDA" size="5.000000 6.640106" />
+    <ImageTarget name="OCTOPUS" size="5.000000 3.332500" />
+    <ImageTarget name="NOTE" size="5.000000 5.000000" />
+    <ImageTarget name="mouse" size="5.000000 3.477500" />
+    <ImageTarget name="LION" size="5.000000 7.501875" />
+    <ImageTarget name="JELLY_FISH" size="5.000000 4.000000" />
+    <ImageTarget name="ICE" size="5.000000 5.000000" />
+    <ImageTarget name="fun-horse" size="5.000000 4.979424" />
+    <ImageTarget name="GIRAFFE" size="5.000000 3.335000" />
+    <ImageTarget name="FOX" size="5.000000 5.000000" />
+    <ImageTarget name="ELEPHANT" size="5.000000 5.029305" />
+    <ImageTarget name="DOG" size="5.000000 5.000000" />
+    <ImageTarget name="CAT" size="5.000000 5.922732" />
+    <ImageTarget name="ball" size="5.000000 5.000000" />
+    <ImageTarget name="APPLE" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
